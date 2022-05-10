@@ -1,6 +1,5 @@
-num1 = int(input("Enter first number: "))
-num2 = int(input("Enter second number: "))
+side = int(input("Enter the side: "))
  
-sum = num1 + num2
+cubevolume = side * side * side
  
-print("Addition of two numbers : ", sum)
+print("Volume of Cube : ", cubevolume)
