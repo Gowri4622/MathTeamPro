@@ -57,10 +57,10 @@ Note: Start working in module-11 after finishing 1 to 10 modules. All the defini
     Object: Write a python method/function to perform the following operation and test it.
 
     Task1: Write a method in python to calulate factorial of a given number
-    Assigned To: Name of the software developer. Example: K. Raja
+    Assigned To: Gowri M
 
     Task1: Write a method in python to calulate simple interest
-    Assigned To: Name of the software developer. Example: K. Raja
+    Assigned To: Jeeva abishake
 
     Task1: Write a method in python to calulate compound interest
-    Assigned To: Name of the software developer. Example: K. Raja            
+    Assigned To: P Suganya            
