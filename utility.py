@@ -24,3 +24,21 @@ r=float(input("Enter Rate of Interest: "))
 t=float(input("Enter Time Period in years: "))
 
 print("Compound interest is",compound_interest(p,r,t))
+
+
+
+
+def simpleInterest(P, Y, R):
+    SI = (P * Y * R)/100
+    return SI
+   
+  
+P = float(input("Enter the principal amount : "))
+ 
+Y = float(input("Enter the number of years : "))
+ 
+R = float(input("Enter the rate of interest : "))
+ 
+#calculate simple interest by using this formula
+SI = simpleInterest(P, Y, R)
+print("Simple interest : {}".format(SI))
